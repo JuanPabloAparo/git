@@ -3,4 +3,4 @@
 # MERGE
 * Fas-Forware
 * Recursiva
-* Automatica
+* Manual
