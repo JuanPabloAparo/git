@@ -1,6 +1,6 @@
 # RAMAS
 
 # MERGE
-* Fast-Forware
+* Fas-Forware
 * Recursiva
-
+* Automatica
