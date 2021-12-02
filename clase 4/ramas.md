@@ -1,5 +1,6 @@
 # RAMAS
 
 # MERGE
-git dvsdvsd
-sdvsdv
+* Fast-Forware
+* Recursiva
+
